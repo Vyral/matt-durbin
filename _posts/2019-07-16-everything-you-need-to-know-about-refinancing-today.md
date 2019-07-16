@@ -4,7 +4,9 @@ title: Everything You Need to Know About Refinancing Today
 date: 2019-07-16 03:05:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Is now a good time to refinance? The answer is more complex than you may
+  think.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Matt+Durbin/Matt+Durbin+Real+Estate+Team+_+Everything+You+Need+to+Know+About+Refinancing+Today.mp4
 pullquote: >-
