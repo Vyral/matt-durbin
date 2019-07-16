@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About Refinancing Today
-date: 2019-07-16 15:05:32
+date: 2019-07-16 03:05:00
 tags:
   - Real Estate
 excerpt:
