@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Developments Across Our County Markets
-date: 2019-09-24 20:07:11
+date: 2019-09-24 20:07:00
 tags:
 excerpt: >-
   Here’s what’s been going on in the market as of August 2019. Stay tuned for
@@ -20,7 +20,7 @@ youtube_code: qUwiR_02x-8
 
 {% include youtube.html %}
 
-Here’s a quick overview of how real estate trends have changed since August of last year for five counties: Allegheny, Washington, Westmoreland, Butler, and Beaver Counties.
+Here’s a quick overview of how real estate trends have changed since August of last year for five counties: Allegheny, Washington, Westmoreland, Butler, and Beaver counties.
 
 **New Listings:**<br>Out of all five counties we’re tracking, only Washington saw an increase in the number of new listings on the market. Year-over-year, 3% more homes came on the Washington County market in August. That’s good because as we all know, there’s a general lack of inventory in our market.
 
@@ -34,7 +34,7 @@ In Butler County specifically, the days on market increased from 53 days last ye
 
 In Washington County, because inventory is on the rise, pending sales are on the decline, and median sales prices are way up, **we might begin to see the market level out a bit there.**
 
-In both Butler and Allegheny Counties, expired listing rose over last year. This year, 19% more homes expired in Allegheny County and 30% more expired in Butler County. This might be because of people trying to push their prices a little bit too high. There might also be a little bit of competition with new construction homes, which can cause resale homes to sit on the market a little longer and possibly even fail to sell.
+In both Butler and Allegheny counties, expired listing rose over last year. This year, 19% more homes expired in Allegheny County and 30% more expired in Butler County. This might be because of people trying to push their prices a little bit too high. There might also be a little bit of competition with new construction homes, which can cause resale homes to sit on the market a little longer and possibly even fail to sell.
 
 Overall, all five counties saw a decrease in inventory, going from between four or five month’s supply to around three month’s supply. Still, **we’re in a very strong seller’s market.** If you’re thinking of selling your home, take advantage of conditions now before interest rates go up again. They’re fluctuating now, but they’re still under 4%, which is historically very low.
 
