@@ -29,6 +29,6 @@ Follow along in the video above to see my full analysis. For your convenience, I
 
 <u><strong>Pre-Owned Homes:</strong></u>&nbsp;
 
-4:06—Con: The home’s features are aging and the layout might not be ideal<br>5:26—Con: You’ll likely have to upgrade the door knobs and faucets<br>5:48—Pro: Your home will have more square footage and a higher price per square foot<br>6:19—Con: You’ll have to do some remodeling&nbsp;<br>7:08—Pro: You’ll be able to get a full brick home&nbsp;
+4:06—Con: The home’s features are aging and the layout might not be ideal<br>5:26—Con: You’ll likely have to upgrade the doorknobs and faucets<br>5:48—Pro: Your home will have more square footage and a higher price per square foot<br>6:19—Con: You’ll have to do some remodeling&nbsp;<br>7:08—Pro: You’ll be able to get a full brick home&nbsp;
 
 If you’d like to talk more about the pros and cons of each type of home or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to help you.
